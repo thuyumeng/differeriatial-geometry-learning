@@ -1,5 +1,6 @@
 (* ::Package:: *)
 
+pi = 3.1415926
 r[t_] := {Cos[t], Sin[t]}
 z[1] := {Hue[0], Thickness[.01], Arrow[{{0, 0}, r[pi/6.0]}]}
 z[2] := {Hue[0.7], Thickness[.01], Arrow[{{0, 0}, 1.5*r[pi/3.0]}]}
@@ -15,3 +16,6 @@ ga := Graphics[Array[z, 5]]
 
 Show[ga, Axes->True, Ticks->None, AspectRatio->Automatic]
 Clear[r]
+
+
+
