@@ -8,6 +8,6 @@
 
 上面ParametricPlot是画曲线的函数。
 对于曲线研究至关重要研究弧长公式：  
-ddd
+
 $$length[\alpha] = \int_{a}^{b}\left|\left|\alpha'[t]\right|\right|dt$$
 
