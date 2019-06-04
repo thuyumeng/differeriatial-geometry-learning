@@ -4,4 +4,4 @@
  
  其中q是切线方向Jq是q的法线方向，p是q的导数向量。
 
-
+![Mathematica1-2note](./note1-2.png)
