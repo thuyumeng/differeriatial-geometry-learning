@@ -13,6 +13,9 @@
 (*ColumnForm[%]*)
 (*Do[Print[D[\[Beta][t], {t,k}]], {k,5,6}]*)
 (**)
+(*\[Alpha][t_] := {Cos[5t], Cos[7t]}*)
+(*ParametricPlot[\[Alpha][t]//Evaluate, {t, 1, \[Pi]}, AspectRatio->Automatic]*)
+(**)
 
 
 
