@@ -16,6 +16,11 @@
 (*\[Alpha][t_] := {Cos[5t], Cos[7t]}*)
 (*ParametricPlot[\[Alpha][t]//Evaluate, {t, 1, \[Pi]}, AspectRatio->Automatic]*)
 (**)
+(*circ[a_][t_] := {a Cos[t],a Sin[t]}*)
+(*parabola[a_][t_] := {2a t, a t^2}*)
+(*ellipse[a_, b_][t_] := {a Cos[t], b Sin[t]}*)
+(*ParametricPlot[ellipse[6, 3][t]//Evaluate, {t, 0, 2 \[Pi]}, AspectRatio->Automatic]*)
+(**)
 
 
 
