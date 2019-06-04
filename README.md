@@ -7,7 +7,7 @@
 ![Mathematica1-2note](./note1-2.png)
 
 上面ParametricPlot是画曲线的函数。
-对于曲线研究至关重要研究弧长公式：
+对于曲线研究至关重要研究弧长公式：  
 
-$$length[\alpha] = \int_{a}^{b}\left|\left|\alpha'[t]\right|\right|dt$$
+<p align="center"><img src="https://rawgit.com/in	git@github.com:thuyumeng/differeriatial-geometry-learning/master/svgs/9b0d59d08107e1109f212972c122b33d.svg?invert_in_darkmode" align=middle width=179.74779405pt height=41.27894265pt/></p>
 
