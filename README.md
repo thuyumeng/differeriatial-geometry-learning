@@ -15,12 +15,12 @@ python setup.py develop
 上面ParametricPlot是画曲线的函数。
 对于曲线研究至关重要研究弧长公式：  
 
-<p align="center"><img alt="$$length[\alpha] = \int_{a}^{b}\left|\left|\alpha'[t]\right|\right|dt$$" src="svgs/9b0d59d08107e1109f212972c122b33d.svg" align="middle" width="179.74779405pt" height="41.27894265pt"/></p>
+<p align="center"><img alt="$$length[\alpha] = \int_{a}^{b}\left|\left|\alpha'[t]\right|\right|dt$$" src="https://rawgit.com/in	git@github.com:thuyumeng/differeriatial-geometry-learning/svgs/svgs/9b0d59d08107e1109f212972c122b33d.svg" align="middle" width="179.74779405pt" height="41.27894265pt"/></p>
 
 上面公式的计算是通过
-<p align="center"><img alt="$$l[[\alpha], P]=\sum_{i=1}^{N}\left|\left|\alpha(t_{j})-\alpha(t_{j-1})\right|\right|$$" src="svgs/a28581e7e37f32dc75feca6f83c9bbd6.svg" align="middle" width="230.2454583pt" height="47.80607865pt"/></p>
+<p align="center"><img alt="$$l[[\alpha], P]=\sum_{i=1}^{N}\left|\left|\alpha(t_{j})-\alpha(t_{j-1})\right|\right|$$" src="https://rawgit.com/in	git@github.com:thuyumeng/differeriatial-geometry-learning/svgs/svgs/a28581e7e37f32dc75feca6f83c9bbd6.svg" align="middle" width="230.2454583pt" height="47.80607865pt"/></p>
 当N趋近于无穷的计算结果。
 
 ![Mathematica1-3note](./figures/figure_integrate.png)
 
-tt
+tttt
