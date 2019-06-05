@@ -23,4 +23,3 @@ $$l[[\alpha], P]=\sum_{i=1}^{N}\left|\left|\alpha(t_{j})-\alpha(t_{j-1})\right|\
 
 ![Mathematica1-3note](./figures/figure_integrate.png)
 
-tttt
