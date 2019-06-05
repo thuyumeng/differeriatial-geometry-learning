@@ -17,4 +17,8 @@ python setup.py develop
 
 $$length[\alpha] = \int_{a}^{b}\left|\left|\alpha'[t]\right|\right|dt$$
 
-qq
+上面公式的计算是通过
+$$l[[\alpha], P]=\sum_{i=1}^{N}\left|\left|\alpha(t_{j})-\alpha(t_{j-1})\right|\right|$$
+当N趋近于无穷的计算结果。
+
+![Mathematica1-3note](./figures/figure_integrate.png)
