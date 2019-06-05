@@ -25,3 +25,5 @@ python -m readme2tex --output README.md --usepackage tikz INPUT.md --add-git-hoo
 
 ![Mathematica1-3note](./figures/figure_integrate.png)
 
+关于曲率的实验curvature
+
