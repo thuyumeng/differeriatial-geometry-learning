@@ -1,4 +1,9 @@
-# 修改测试
+# latex相关软件
+应用latex 来渲染数学公式
+需要安装mactex
+然后安装readme2tex: 
+git clone git@github.com:leegao/readme2tex.git
+python setup.py develop
 # 写在前面
  这是我阅读differetial geometry的阅读笔记主要是习题和mathematica的应用。
  ![figure1-1示意图](./figure1-1.png)
