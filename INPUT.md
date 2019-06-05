@@ -22,3 +22,5 @@ $$l[[\alpha], P]=\sum_{i=1}^{N}\left|\left|\alpha(t_{j})-\alpha(t_{j-1})\right|\
 当N趋近于无穷的计算结果。
 
 ![Mathematica1-3note](./figures/figure_integrate.png)
+
+tt

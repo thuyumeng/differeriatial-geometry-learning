@@ -22,3 +22,5 @@ python setup.py develop
 当N趋近于无穷的计算结果。
 
 ![Mathematica1-3note](./figures/figure_integrate.png)
+
+tt
