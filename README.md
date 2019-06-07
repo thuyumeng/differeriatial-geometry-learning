@@ -32,3 +32,6 @@ python -m readme2tex --output README.md INPUT.md --nocdn
 
 ![Mathematical1-5note](./figures/angle_function.png)
 
+更新一个我非常喜欢的曲线指数螺旋线
+
+![Mathematical1-7note](./figures/logspiral.png)
