@@ -1,0 +1,10 @@
+(* ::Package:: *)
+
+(* ::Input:: *)
+(*logspiral[a_,b_][t_]:=a Exp[b t]{Cos[t],Sin[t]}*)
+(*spiral[a_]:=*)
+(*Module[{f,ep},*)
+(*f = logspiral[1,.2];*)
+(*ep = {Arrow[{{0,0}, f[a]}], Arrow[{f[a], f[a]+f'[a]}]};*)
+(*ParametricPlot[f[t],{t, -4\[Pi], 4\[Pi]},PlotStyle->{Hue[0.5,0.5,0.59], Thickness[.01]},AspectRatio->Automatic,Epilog->ep,ImageSize->300]*)
+(*];*)
